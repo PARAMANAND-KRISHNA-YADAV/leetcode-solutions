@@ -11,3 +11,4 @@
 | 26/11 | Binary Search | Algorithms | Easy | ✅ Solved | 10 min |
 | 26/11 | Move Zeroes | Algorithms | Easy | ✅ Solved | 12 min |
 | 26/11 | Valid Parentheses | Stacks | Easy | ✅ Solved | 20 min |
+| 26/11 | Reverse a Linked List | Linked Lists | Easy | ✅ Solved | 20 min |
